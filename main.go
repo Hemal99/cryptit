@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/Hemal99/cryptit.git/decrypt"
-	"github.com/Hemal99/cryptit.git/encrypt"
+	"github.com/Hemal99/cryptit/decrypt"
+	"github.com/Hemal99/cryptit/encrypt"
 )
 
 func main() {
